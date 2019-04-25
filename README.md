@@ -1,6 +1,3 @@
-﻿=====FLAPPY BIRD CLONE=====
-
-
 Requirements
 ------------
 - python (basic CORS server)
@@ -12,8 +9,9 @@ To run the code,
 ----------------
 - run "bash run.sh" to start the python server.
 - navigate to "localhost" in a browser.
-==
-**本次作業完成以下幾點功能**
+
+功能
+---------------
 1. 小鳥的顏色和背景會隨機出現
 2. 小鳥的翅膀會震動
 3. 小鳥可受空白鍵控制,並會旋轉
